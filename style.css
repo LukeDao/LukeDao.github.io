@@ -60,3 +60,7 @@ table {
 #heading1{
     text-align: left;
 }
+
+a:link {
+    color: white;
+}
